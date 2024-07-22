@@ -1,3 +1,4 @@
+<a href="https://media0.giphy.com/media/gk3R16JhLP8RUka2nD/giphy.gif?cid=6c09b952zerfmh6tkh7g7iz6y78kghxso1w7grn13pyi1xq4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"></a>
 <h1 align="center">Hi 👋, I'm Adwaith Ragh N A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
